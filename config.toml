@@ -8,6 +8,20 @@ theme = "hello-friend-ng"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
   homeSubtitle = 'Python/Django Developer'
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/utkucanbykl"
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/utkucanbykl"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/utkucanbiyikli"
+
+  [[params.social]]
+    name = "stackoverflow"
+    url = "https://stackoverflow.com/users/7437136/utkucan-b%c4%b1y%c4%b1kl%c4%b1"
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
@@ -43,6 +57,11 @@ theme = "hello-friend-ng"
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "/projects"
 
 [taxonomies]
   tag      = "tags"
