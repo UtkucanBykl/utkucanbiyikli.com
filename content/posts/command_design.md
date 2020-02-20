@@ -2,7 +2,7 @@
 title: "Python ile Komut dizayn kalıbı"
 date: 2020-02-20T09:37:43+03:00
 draft: false
-categories: ["Design Pattern", "Python"]
+tags: ["Design Pattern", "Python"]
 ---
 
 ## Command Desing Pattern

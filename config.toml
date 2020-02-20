@@ -7,7 +7,7 @@ theme = "hello-friend-ng"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
-
+  homeSubtitle = 'Python/Django Developer'
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
@@ -43,6 +43,7 @@ theme = "hello-friend-ng"
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+
 [taxonomies]
   tag      = "tags"
   category = "categories"
